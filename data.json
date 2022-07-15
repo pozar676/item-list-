@@ -1,0 +1,18 @@
+{
+    "1": {
+        "name": "item 1",
+        "path": "path/1"
+    },
+    "2": {
+        "name": "item 2",
+        "path": "path/2"
+    },
+    "3": {
+        "name": "item 3",
+        "path": "path/3"
+    },
+    "4": {
+        "name": "item 4",
+        "path": "path/4"
+    }
+}
